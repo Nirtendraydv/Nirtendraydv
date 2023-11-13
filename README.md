@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nirtendraydv
+- 👋 Hi, I’m @Nirtendra Yadav
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Full stack 
+- 🌱 I’m currently learning Front end Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: nirtendraydv@gmail.com
 
